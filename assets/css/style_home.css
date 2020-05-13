@@ -1,0 +1,25 @@
+.main {
+    width: 500px;
+    height: 700px;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+.title {
+    font-family: STXinwei;
+    position: absolute;
+    writing-mode: vertical-lr;
+    font-size: 80px;
+    margin-left: 120px;
+    color: black;
+}
+
+.ink {
+    width: 500px;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}

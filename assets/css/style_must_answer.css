@@ -1,0 +1,46 @@
+body {
+    background: url(../imgs/bg_blur.jpg) no-repeat center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.container {
+    margin-top: 2%;
+    margin-left: 15%;
+    font-family: STXinwei;
+}
+.team {
+    background: url(../imgs/ink.png) no-repeat center;
+    background-size: 100% 100%;
+    float: right;
+    width: 150px;
+    height: 150px;
+    writing-mode: vertical-lr;
+}
+.question {
+    width: 700px;
+    margin-top: 5%;
+    margin-left: 10%;
+    float: left;
+}
+.answer {
+    margin-top: 70px;
+    font-family: Microsoft Yahei;
+    width: 500px;
+}
+li {
+    width: 500px;
+}
+.time {
+    margin-left: 150px;
+    margin-top: 200px;
+    float: right;
+    border: 1px solid black;
+    border-radius: 100px;
+    text-align: center;
+    width: 150px;
+    height: 150px;
+}
+.point {
+    margin-top: 150px;
+    float: right;
+}
