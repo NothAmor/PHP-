@@ -1,0 +1,34 @@
+.container {
+    margin: 0 auto;
+    margin-top: 10%;
+    padding-left: 20%;
+    padding-right: 10%;
+}
+
+.class {
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-image: url(../imgs/ink.png);
+    margin-right: 10%;
+    margin-bottom: 20px;
+}
+
+.title {
+    font-size: 50px;
+    writing-mode: vertical-lr;
+    position: absolute;
+    margin-left: 6%;
+    font-family: STXinwei;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    background: url(../imgs/bg_blur.jpg) no-repeat center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
